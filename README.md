@@ -32,23 +32,23 @@
 - Then we preprocessed the dataset.
 - Then different machine learning algorithms were applied .
 
-### Adding functionality : 1- feature
+### Adding functionality : features
 > - **NumPy**- *It is  a Python package used for performing the various numerical computations and processing of the multidimensional and single-dimensional array elements.*
-> - **Pandas**- *It is an open source Python package that is used for data science/data analysis and machine learning tasks.*
+> - **Random**: *Facilitates random number generation, sampling, and probability distributions, crucial for various applications such as simulations, statistical analysis, and machine learning.*
+> - **TensorFlow**: *Offers a comprehensive framework for building and training machine learning models, particularly deep neural networks, with flexibility, scalability, and extensive tooling support.*
+> - **NLTK**: *Provides a suite of libraries and programs for natural language processing tasks, including tokenization, stemming, tagging, parsing, and semantic reasoning, aiding in text analysis and understanding.*
+> - **Pickle**: *Allows serialization and deserialization of Python objects, enabling the saving and loading of data structures and models, vital for storing and transferring complex data across sessions or systems.*
+> - **Keras**: *Simplifies the creation and experimentation of deep learning models by providing a high-level API with user-friendly interfaces and seamless integration with TensorFlow, enabling rapid prototyping and development.*
 
-### 2- feature
-- These models are imported from sklearn library of Python.
-> - **Sklearn**- *The sklearn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction.*
-> - **TfidfVectorizer**- *is a feature extraction tool that transforms text documents into numerical representations based on term frequency-inverse document frequency.*
 
-### 3- feature
-> - **Logistic Regression** -*is a machine learning algorithm used for binary classification tasks, estimating the probability of a sample belonging to a particular class.*
-> - **Decision Tree Classifier** -*is a machine learning algorithm used for classification tasks, where it builds a decision tree to predict the class label of a sample based on its features.*
-> - **Gradient Boosting Classifier** -*is a machine learning algorithm that builds an ensemble of decision trees sequentially, where each subsequent tree corrects the errors made by the previous ones, ultimately improving predictive accuracy.*
-> - **Random Forest Classifier** -*is a machine learning algorithm that builds an ensemble of decision trees and combines their predictions to make a final classification, resulting in improved accuracy and robustness compared to individual trees.*
 
-## Application of Fake News Detection 
-- Fake news detection technology can be integrated into educational programs to teach individuals critical thinking skills and how to evaluate the credibility of news sources.
-- Fake news detection algorithms can be implemented by social media platforms and online news aggregators to automatically identify and flag potentially false or misleading content. This helps prevent the rapid spread of misinformation through viral sharing.
-- Journalists and fact-checking organizations can utilize fake news detection tools to verify the accuracy of information before publishing news stories. Automated systems assist in identifying dubious claims or sources, ensuring reliable information dissemination.
+
+
+## Application of Chatbot 
+-Customer Support: Chatbots offer instant assistance, answering FAQs, troubleshooting issues, and guiding users through processes, enhancing customer satisfaction and reducing support costs effectively.
+-Sales and Marketing: Chatbots engage prospects, recommend products/services, provide personalized offers, and streamline the purchasing process, boosting conversion rates and improving overall marketing efficiency.
+-Information Retrieval: Chatbots retrieve and deliver relevant information on-demand, such as news updates, weather forecasts, or educational content, offering convenience and quick access to knowledge for users.
+
+
+
 
