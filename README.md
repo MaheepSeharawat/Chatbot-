@@ -5,10 +5,7 @@
 - It is the process of systematically applying statistical and/or logical techniques such as cleaning, transforming, and modeling data to discover useful information for business decision-making. 
 
 ## Dataset used 
-[https://github.com/raveesh2004/fake-news-detector/blob/main/True%20news%20dataset.zip
-](url)
-<br> 
-[https://github.com/raveesh2004/fake-news-detector/blob/main/True%20news%20dataset.zip
+[https://github.com/MaheepSeharawat/Chatbot-/blob/main/intents1.json
 ](url)
 
 
@@ -64,6 +61,7 @@
 > - Sales and Marketing: Chatbots engage prospects, recommend products/services, provide personalized offers, and streamline the purchasing process, boosting conversion rates and improving overall marketing efficiency.
 > - Information Retrieval: Chatbots retrieve and deliver relevant information on-demand, such as news updates, weather forecasts, or educational content, offering convenience and quick access to knowledge for users.
 
-
+> - Output Images
+>   - https://github.com/MaheepSeharawat/Chatbot-/blob/main/output.jpg
 
 
